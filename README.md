@@ -29,3 +29,6 @@
   - Website 2 should be accessible to user1 and user2
   - When you open them through user3 and user4 they should show you a custom made error Forbidden page which should contain the following message: <br>"You should be an Authenticated user. Contact web gawd!" <br> with title as "Web Gawd can stop you anywhere"
   <hr>
+<strong>Remarks</strong>
+
+I could not complete the task that: "Website 1 should be accessible from client c10 and should not be accessible from c20"
